@@ -2493,9 +2493,9 @@ importers:
 
   support:
     specifiers:
-      diffable-html: ^4.1.0
+      diffable-html: ^5.0.0
     dependencies:
-      diffable-html: 4.1.0
+      diffable-html: 5.0.0
 
   support/actions:
     specifiers:
@@ -13742,8 +13742,8 @@ packages:
     engines: {node: '>=0.3.1'}
     dev: false
 
-  /diffable-html/4.1.0:
-    resolution: {integrity: sha512-++kyNek+YBLH8cLXS+iTj/Hiy2s5qkRJEJ8kgu/WHbFrVY2vz9xPFUT+fii2zGF0m1CaojDlQJjkfrCt7YWM1g==}
+  /diffable-html/5.0.0:
+    resolution: {integrity: sha512-BymfWdoIv53XDp/sINPyngxiyJr7ygmAoUN7nIlPC7E+jiLvPdVIZteG4btCaB5Nyf8CMyMxp8r4Vi2r1FtSsA==}
     dependencies:
       htmlparser2: 3.10.1
     dev: false
